@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<category catid="BIRDS" name="Birds" descn=""></category>
+	<category catid="CATS" name="Cats" descn=""></category>
+	<category catid="DOGS" name="Dogs" descn=""></category>
+	<category catid="FISH" name="Fish" descn=""></category>
+	<category catid="rabbits" name="rabbits" descn="..."></category>
+	<category catid="REPTILES" name="Reptiles" descn=""></category>
+</dataset>

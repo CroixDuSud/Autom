@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book  titre="Mon Livre">
+	<auteurs>
+		<auteur nom="Fontaine" prenom= "Olivier" />
+		<auteur nom="Fontaine" prenom= "Hervé" />
+	</auteurs>
+	<section nom="Section1" >
+
+		<chapter titre="Introduction" >
+			<paragraphe numero="1" />
+			<paragraphe numero="2"/>
+		</chapter>
+		<chapter titre="Presentation">
+			<paragraphe numero="1"/>
+			<paragraphe numero="2"/>
+		</chapter>
+	</section >
+	<section nom="Section2">
+		<chapter titre="Combat">
+			<paragraphe numero="1"/>
+			<paragraphe numero="2"/>
+		</chapter>
+		<chapter titre="Fin">
+			<paragraphe numero="1"/>
+			<paragraphe numero="2"/>
+		</chapter>
+	</section>
+</book>
+
+

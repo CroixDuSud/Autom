@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<p:livre xmlns:p="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+	<p:title>Titre livre</p:title>
+	<p:auteurs>
+		<p:auteur>
+			<p:nom>LAMA</p:nom>
+			<p:prenom>Matéi</p:prenom>
+		</p:auteur>
+		<p:auteur>
+			<p:nom>MANIOC</p:nom>
+			<p:prenom>Arnaud</p:prenom>
+		</p:auteur>
+	</p:auteurs>
+	<p:sections>
+		<p:section>
+			<p:title>Titre section 1</p:title>
+			<p:chapitres>
+				<p:title>Titre chapitre</p:title>
+				<p:chapitre>
+					<p:paragraphes>
+						<p:paragraphe>para1</p:paragraphe>
+						<p:paragraphe>para2</p:paragraphe>
+					</p:paragraphes>
+				</p:chapitre>
+				<p:chapitre>
+					<p:paragraphes>
+						<p:paragraphe>para1</p:paragraphe>
+						<p:paragraphe>para2</p:paragraphe>
+					</p:paragraphes>
+				</p:chapitre>
+			</p:chapitres>
+		</p:section>
+		<p2:section>
+			<p2:title>Titre section 2</p2:title>
+			<p2:chapitres>
+				<p2:title>Titre chapitre</p2:title>
+				<p2:chapitre>
+					<p2:paragraphes>
+						<p2:paragraphe>para1</p2:paragraphe>
+						<p2:paragraphe>para2</p2:paragraphe>
+					</p2:paragraphes>
+				</p2:chapitre>
+				<p2:chapitre>
+					<p2:paragraphes>
+						<p2:paragraphe>para1</p2:paragraphe>
+						<paragraphe>para2</paragraphe>
+					</p2:paragraphes>
+				</p2:chapitre>
+			</p2:chapitres>
+		</p2:section>
+	</p:sections>
+</p:livre>

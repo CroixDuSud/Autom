@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<book xmlns="http://masociete.com">
+  <titre>AUTOBIOGRAPHIE DE PATRICK B.</titre>
+	<Listeauteurs>
+		<auteur>
+			<nom>DeLaBergamotte</nom>
+			<prenom>Denis</prenom>
+		</auteur>
+		<auteur>
+			<nom>Quatorze</nom>
+			<prenom>Louis</prenom>
+		</auteur>
+	</Listeauteurs>
+			<section>
+			 <titre>Section 1</titre>
+				<chapitre>
+					<titre>ChapterOne</titre>
+						<p>Ceci est un paragraphe</p>
+						<p>Ceci est un autre paragraphe</p>
+				</chapitre>
+					<chapitre>
+						<titre>ChapterTwo</titre>
+							<p>Encore un paragraphe</p>
+							<p>Another one</p>
+					</chapitre>
+			</section>
+				<section xmlns:p="http://www.monentreprise.com">
+				 <titre>Section 2</titre>
+					<chapitre>
+						<titre>ChapterThree</titre>
+							<p>Blablabla</p>
+							<p>du texte du texte du texte</p>
+					</chapitre>
+						<chapitre>
+							<titre>ChapterFour</titre>
+								<p>Tadaaaaam</p>
+								<p xmlns="">Fin du chapitre 4 et fin du livre</p>
+						</chapitre>
+					</section>
+</book>

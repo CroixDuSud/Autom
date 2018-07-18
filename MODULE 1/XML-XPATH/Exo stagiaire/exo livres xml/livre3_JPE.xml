@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<p:livre xmlns:p="http://www.masociete.com " xmlns:p2="http://www.monentreprise.com">
+	<p:titre>Titre_Du_Livre</p:titre>
+	<p:auteurs>
+		<p:principal>
+			<p:prenom>Prénom1</p:prenom>
+			<p:nom>Nom1</p:nom>
+		</p:principal>
+		<p:secondaire>
+			<p:prenom>Prénom2</p:prenom>
+			<p:nom>Nom2</p:nom>
+		</p:secondaire>
+	</p:auteurs>
+
+	<p:section>
+		<p:titre>Titre_de_la_section 1</p:titre>
+		<p:chapitre>
+			<p:titre>Chapitre_1.1</p:titre>
+			<p:paragraphe>Paragraphe_1.1.1</p:paragraphe>
+			<p:paragraphe>Paragraphe_1.1.2</p:paragraphe>
+		</p:chapitre>
+		<p:chapitre>
+			<p:titre>Chapitre_1.2</p:titre>
+			<p:paragraphe>Paragraphe_1.2.1</p:paragraphe>
+			<p:paragraphe>Paragraphe_1.2.2</p:paragraphe>
+		</p:chapitre>
+	</p:section>
+
+	<p2:section>
+		<p2:titre>Titre_de_la_section 2</p2:titre>
+		<p2:chapitre>
+			<p2:titre>Chapitre_2.1</p2:titre>
+			<p2:paragraphe>Paragraphe_2.1.1</p2:paragraphe>
+			<p2:paragraphe>Paragraphe_2.1.2</p2:paragraphe>
+		</p2:chapitre>
+		<p2:chapitre>
+			<p2:titre>Chapitre_2.2</p2:titre>
+			<p2:paragraphe>Paragraphe_2.2.1</p2:paragraphe>
+			<paragraphe>Paragraphe_2.2.2</paragraphe>
+		</p2:chapitre>
+	</p2:section>
+</p:livre>

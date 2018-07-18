@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Trouvez le taux (rate) où le type de prêt (loantype) est "30-Year Fixed Rate" et son sous-type (subtype) est égal à "B" -->
+<root>
+ <rate>
+    <loantype>40-Year Fixed Rate</loantype>
+    <subtype>A</subtype>
+        <subtypecount>3</subtypecount>
+    <rate> 5.375</rate>
+    <points> 1.000</points>
+    <apr> 5.491</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>40-Year Fixed Rate</loantype>
+    <subtype>B</subtype>
+    <rate> 5.500</rate>
+    <points> 0.500</points>
+    <apr> 5.579</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>40-Year Fixed Rate</loantype>
+    <subtype>C</subtype>
+    <rate> 5.625</rate>
+    <points> 0.000</points>
+    <apr> 5.667</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>30-Year Fixed Rate</loantype>
+    <subtype>A</subtype>
+        <subtypecount>3</subtypecount>
+    <rate> 5.000</rate>
+    <points> 1.000</points>
+    <apr> 5.134</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>30-Year Fixed Rate</loantype>
+    <subtype>B</subtype>
+    <rate> 5.125</rate>
+    <points> 0.500</points>
+    <apr> 5.215</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>30-Year Fixed Rate</loantype>
+    <subtype>C</subtype>
+    <rate> 5.250</rate>
+    <points> 0.000</points>
+    <apr> 5.297</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>20-Year Fixed Rate</loantype>
+    <subtype>A</subtype>
+        <subtypecount>3</subtypecount>
+    <rate> 4.875</rate>
+    <points> 1.000</points>
+    <apr> 5.055</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>20-Year Fixed Rate</loantype>
+    <subtype>B</subtype>
+    <rate> 5.000</rate>
+    <points> 0.500</points>
+    <apr> 5.121</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>20-Year Fixed Rate</loantype>
+    <subtype>C</subtype>
+    <rate> 5.125</rate>
+    <points> 0.000</points>
+    <apr> 5.187</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>15-Year Fixed Rate</loantype>
+    <subtype>A</subtype>
+        <subtypecount>3</subtypecount>
+    <rate> 4.250</rate>
+    <points> 1.000</points>
+    <apr> 4.467</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>15-Year Fixed Rate</loantype>
+    <subtype>B</subtype>
+    <rate> 4.375</rate>
+    <points> 0.500</points>
+    <apr> 4.512</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>15-Year Fixed Rate</loantype>
+    <subtype>C</subtype>
+    <rate> 4.500</rate>
+    <points> 0.000</points>
+    <apr> 4.570</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>10-Year Fixed Rate</loantype>
+    <subtype>A</subtype>
+        <subtypecount>3</subtypecount>
+    <rate> 4.125</rate>
+    <points> 1.000</points>
+    <apr> 4.435</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>10-Year Fixed Rate</loantype>
+    <subtype>B</subtype>
+    <rate> 4.250</rate>
+    <points> 0.500</points>
+    <apr> 4.454</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>10-Year Fixed Rate</loantype>
+    <subtype>C</subtype>
+    <rate> 4.375</rate>
+    <points> 0.000</points>
+    <apr> 4.473</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>High-Balance 15-Year Fixed Rate</loantype>
+    <subtype>D</subtype>
+        <subtypecount>3</subtypecount>
+    <rate> 4.250</rate>
+    <apr> 4.461</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>High-Balance 15-Year Fixed Rate</loantype>
+    <subtype>B</subtype>
+    <rate> 4.375</rate>
+    <points> 0.500</points>
+    <apr> 4.512</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>High-Balance 15-Year Fixed Rate</loantype>
+    <subtype>C</subtype>
+    <rate> 4.500</rate>
+    <points> 0.000</points>
+    <apr> 4.563</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>High-Balance 30-Year Fixed Rate</loantype>
+    <subtype>D</subtype>
+        <subtypecount>3</subtypecount>
+    <rate> 5.000</rate>
+    <points> 1.000</points>
+    <apr> 5.130</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>High-Balance 30-Year Fixed Rate</loantype>
+    <subtype>B</subtype>
+    <rate> 5.125</rate>
+    <apr> 5.211</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+  <rate>
+    <loantype>High-Balance 30-Year Fixed Rate</loantype>
+    <subtype>C</subtype>
+    <rate> 5.250</rate>
+    <points> 0.000</points>
+    <apr> 5.293</apr>
+    <jumbo>0</jumbo>
+    <fixed>1</fixed>
+  </rate>
+ </root>

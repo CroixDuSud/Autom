@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+	<title>Titre livre</title>
+	<auteurs>
+		<auteur>
+			<nom>LAMA</nom>
+			<prenom>Matéi</prenom>
+		</auteur>
+		<auteur>
+			<nom>MANIOC</nom>
+			<prenom>Arnaud</prenom>
+		</auteur>
+	</auteurs>
+	<Sections>
+		<title>Titre section</title>
+		<section>
+			<chapitres>
+				<title>Titre chapitre</title>
+				<chapitre>
+					<paragraphes>
+						<paragraphe>para1</paragraphe>
+						<paragraphe>para2</paragraphe>
+					</paragraphes>
+				</chapitre>
+				<chapitre>
+					<paragraphes>
+						<paragraphe>para1</paragraphe>
+						<paragraphe>para2</paragraphe>
+					</paragraphes>
+				</chapitre>
+			</chapitres>
+		</section>
+		<section>
+			<chapitres>
+				<title>Titre chapitre</title>
+				<chapitre>
+					<paragraphes>
+						<paragraphe>para1</paragraphe>
+						<paragraphe>para2</paragraphe>
+					</paragraphes>
+				</chapitre>
+				<chapitre>
+					<paragraphes>
+						<paragraphe>para1</paragraphe>
+						<paragraphe>para2</paragraphe>
+					</paragraphes>
+				</chapitre>
+			</chapitres>
+		</section>
+	</Sections>
+</livre>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<livre titre="Alice et Bob cherchent Camille">
+	<auteur prenom="Alice" nom="Marvel" />
+	<auteur prenom="Bob" nom="Sea" />
+
+	<section titre="Préambule">
+		<chapitre titre="Intro">
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+		<chapitre titre="Remerciements">
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+	</section>
+
+	<section titre="Choses sérieuses">
+		<chapitre titre="Chapitre de commencement">
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+		<chapitre titre="Chapitre venant ensuite">
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+	</section>
+</livre>

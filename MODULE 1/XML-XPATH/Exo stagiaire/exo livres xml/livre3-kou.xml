@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<p:book xmlns:p="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+	<p:title>Méli-Mélo</p:title>
+	<p:auteur>
+		<p:nom>MICHEL</p:nom>
+		<p:prénom>Patrick</p:prénom>
+	</p:auteur>
+	<p:auteur>
+		<p:nom>SCHMITT</p:nom>
+		<p:prenom>Herbert</p:prenom>
+	</p:auteur>
+	<p:section>
+		<p:title>C'est le début de la fin</p:title>
+		<p:chapter>
+			<p:title>Comment je suis devenu ce que je suis</p:title>
+			<p:paragraphe>
+				L'histoire de ma vie
+			</p:paragraphe>
+			<p:paragraphe>
+				Le reste de l'histoire de ma vie
+			</p:paragraphe>
+		</p:chapter>
+		<p:chapter>
+			<p:title>La survie pour les Nuls</p:title>
+			<p:paragraphe>
+				Comment cuire un oeuf dans le désert ?
+			</p:paragraphe>
+			<p:paragraphe>
+				Survivre à Paris
+			</p:paragraphe>
+		</p:chapter>
+	</p:section>
+
+	<p2:section>
+		<p2:title>C'est la fin...normalement</p2:title>
+		<p2:chapter>
+			<p2:title>La chute d'un Empire</p2:title>
+			<p2:paragraphe>
+				La chute de l'Empire Romain
+			</p2:paragraphe>
+			<p2:paragraphe>
+				La chute de l'Empire Austro-Hongrois
+			</p2:paragraphe>
+		</p2:chapter>
+		<p2:chapter>
+			<p2:title>La naissance des Etats Modernes</p2:title>
+			<p2:paragraphe>
+				Les Pays Bas Espagnols au XVIe siècle
+			</p2:paragraphe>
+			<paragraphe xmlns="">
+				Le Siam au XVIIIe siècle
+			</paragraphe>
+		</p2:chapter>
+	</p2:section>
+</p:book>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE produit SYSTEM "Produits.dtd" >
+<produit categorie="jouet" description="" id="jouet2145" nom="JouetClub" prix="54 EUR" quantite="25">Jouet</produit>

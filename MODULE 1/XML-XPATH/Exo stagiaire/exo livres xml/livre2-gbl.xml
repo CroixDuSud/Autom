@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livres>
+	<livre titre="Itinéraire d'un alcoolique devenu prof d'autom">
+		<auteurs>
+			<auteur nom="DTD" prenom="Jean-Michel"/>
+			<auteur nom="Dusse" prenom="Jean-Claude"/>
+		</auteurs>
+		<section titre="La Bouffarde">
+			<chapitre titre="La Picon et moi">
+				<paragraphe>gorgée 1</paragraphe>
+				<paragraphe>gorgée 2</paragraphe>
+			</chapitre>
+			<chapitre titre="Comment j'ai sombré en commandant un Monaco">
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+		</section>
+		<section titre="">
+			<chapitre titre="">
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+			<chapitre titre="">
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+		</section>
+	</livre>
+</livres>

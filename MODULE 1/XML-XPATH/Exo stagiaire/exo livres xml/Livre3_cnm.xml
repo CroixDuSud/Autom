@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre xmlns:p="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com" titre="Quoi de neuf, docteur ?">
+	<p:ListeAuteurs>
+		<p:auteur p:prenom="Roger" p:nom="Rabbit" />
+		<p:auteur p:prenom="Bugs" p:nom="Bunny" />
+	</p:ListeAuteurs>
+
+	<p:section p:titre="si post exsudatos labores">
+		<p:chapitre p:titre="consilio ad placidiora deverti">
+			<p:paragraphe>Nemo quaeso miretur, si post exsudatos </p:paragraphe>
+			<p:paragraphe>Nemo quaeso miretur, si post exsudatos </p:paragraphe>
+		</p:chapitre>
+		<p:chapitre p:titre="barbaricos pagos adventans velut">
+			<p:paragraphe>dfatim commeatus fiducia</p:paragraphe>
+			<p:paragraphe>dfatim commeatus fiducia</p:paragraphe>
+		</p:chapitre>
+	</p:section>
+
+	<p2:section p2:titre="Orientis vero limes in longum ">
+		<p2:chapitre p2:titre="42">
+			<p2:paragraphe>dextra pelagi fragoribus</p2:paragraphe>
+			<p2:paragraphe>dextra pelagi fragoribus</p2:paragraphe>
+		</p2:chapitre>
+		<p2:chapitre p2:titre="barbaricos pagos adventans velut">
+			<p2:paragraphe>obitum successorio iure teneret regna Persidis,
+				efficaciae inpetrabilis rex, ut indicat cognomentum.</p2:paragraphe>
+			<paragraphe xmln="">obitum successorio iure teneret regna Persidis,
+				efficaciae inpetrabilis rex, ut indicat cognomentum.</paragraphe>
+		</p2:chapitre>
+	</p2:section>
+
+</livre>

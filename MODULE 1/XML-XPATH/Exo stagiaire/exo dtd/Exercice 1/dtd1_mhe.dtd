@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--1-->
+<!ELEMENT categorie (jouet*, livre*)>
+<!ELEMENT jouet (nom, desc, prix, qté)>
+<!ELEMENT livre (nom, desc, prix, qté)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT qté (#PCDATA)>
+<!ATTLIST jouet id ID #REQUIRED>
+<!ATTLIST livre id ID #REQUIRED>
+
+<!--2-->
+<!ELEMENT produits (produit*)>
+<!ELEMENT produit (nom, desc, prix, qté)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT qté (#PCDATA)>
+<!ATTLIST produit id ID #REQUIRED>
+<!ATTLIST produit categorie (jouet|livre) #REQUIRED>

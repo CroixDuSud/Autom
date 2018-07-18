@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE produits PUBLIC "SYSTEM" "exercice1.dtd" >
+<produits>
+  <produit>
+    <livre categorie="jouet" id="idvalue0" nom="">
+      <prix>prix</prix>
+      <quantite>quantite</quantite>
+    </livre>
+    <jouet categorie="jouet" id="idvalue1" nom="">
+      <prix>prix</prix>
+      <quantite>quantite</quantite>
+    </jouet>
+  </produit>
+</produits>

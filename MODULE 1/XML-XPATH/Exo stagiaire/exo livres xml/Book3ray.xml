@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<p:book xmlns:p="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+	<p:auteur>
+		<p:nom>Fontaine Olivier</p:nom>
+		<p:nom>Jean Hervé</p:nom>
+	</p:auteur> 
+	<p:section>
+		<p:tire>Section 1</p:tire>
+		<p:chapter>
+			<p:titre>Introduction</p:titre>
+			<p:paragraphe></p:paragraphe>
+			<p:paragraphe></p:paragraphe>
+		</p:chapter>
+		<p:chapter>
+			<p:titre>Presentation</p:titre>
+			<p:paragraphe></p:paragraphe>
+			<p:paragraphe></p:paragraphe>
+		</p:chapter>
+	</p:section>
+	<p2:section>
+		<p2:titre>Section 2</p2:titre>
+		<p2:chapter>
+			<p2:titre>combat</p2:titre>
+			<p2:paragraphe></p2:paragraphe>
+			<p2:paragraphe></p2:paragraphe>
+		</p2:chapter>
+		<p2:chapter>
+			<p2:titre>fin</p2:titre>
+			<p2:paragraphe></p2:paragraphe>
+			<paragraphe xmlns =""></paragraphe>
+		</p2:chapter>
+	</p2:section>
+</p:book>

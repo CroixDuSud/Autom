@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<book>
+	<title>Méli-Mélo</title>
+	
+	<auteurs>
+		<nom>MICHEL</nom>
+		<prénom>Patrick</prénom>
+	</auteurs>
+	
+	<section>
+	<title>C'est le début de la fin</title>
+		<chapter>
+		<title>Comment je suis devenu ce que je suis</title>
+			<paragraphe>
+			L'histoire de ma vie
+			</paragraphe>
+			
+			<paragraphe>
+			Le reste de l'histoire de ma vie
+			</paragraphe>
+			
+		</chapter>
+		
+		<chapter>
+		<title>La survie pour les Nuls</title>
+			<paragraphe>
+			Comment cuire un oeuf dans le désert ?
+			</paragraphe>
+			
+			<paragraphe>
+			Survivre à Paris
+			</paragraphe>
+			
+		</chapter>
+		
+	</section>
+
+	<section>
+	<title>C'est la fin...normalement</title>
+		<chapter>
+		<title>La chute d'un Empire</title>
+			<paragraphe>
+			La chute de l'Empire Romain
+			</paragraphe>
+			
+			<paragraphe>
+			La chute de l'Empire Austro-Hongrois
+			</paragraphe>
+			
+		</chapter>
+		
+		<chapter>
+		<title>La naissance des Etats Modernes</title>
+			<paragraphe>
+			Les Pays Bas Espagnols au XVIe siècle
+			</paragraphe>
+			
+			<paragraphe>
+			Le Siam au XVIIIe siècle
+			</paragraphe>
+			
+		</chapter>
+	
+	
+	</section>
+
+</book>

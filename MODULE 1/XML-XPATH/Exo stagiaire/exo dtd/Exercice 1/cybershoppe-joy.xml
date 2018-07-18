@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE shop SYSTEM "cybershoppe.dtd">
+<shop>
+	<produits>
+		<produit id="jouet1" categorie="jouet">
+			<nom>jouet 1</nom>
+			<description>description</description>
+			<prix>10</prix>
+			<quantite>1</quantite>
+		</produit>
+		<produit id="livre1" categorie="livre">
+			<nom>livre 1</nom>
+			<description>description</description>
+			<prix>6.50</prix>
+			<quantite>8</quantite>
+		</produit>
+	</produits>
+</shop>

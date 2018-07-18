@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE product [
+
+<!ELEMENT jouets (nom_du_produit, description, prix, quantity, product_ID)*>
+<!ELEMENT nom_du_produit (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT product_ID (#PCDATA)>
+	
+<!ELEMENT livres (nom_du_produit, description, prix, quantity, product_ID)*>
+
+]>
+
+<product>
+	
+	<jouets>
+		<nom_du_produit>TOTO</nom_du_produit>
+		<description>C'est une toupie</description>
+		<prix>12.50</prix>
+		<quantity>3</quantity>
+		<product_ID>P49J64</product_ID>
+	</jouets>
+
+	<livres>
+		<nom_du_produit>TATA</nom_du_produit>
+		<description>C'est un super bouquin</description>
+		<prix>65</prix>
+		<quantity>0</quantity>
+		<product_ID>L58J32</product_ID>
+	</livres>
+
+</product>

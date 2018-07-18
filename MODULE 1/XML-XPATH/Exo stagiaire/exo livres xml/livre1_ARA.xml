@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<livre>
+	<!-- Avec éventuellement les différents éléments respectifs dans des listes 
+		: <listeAuteurs>, <listeSections>, <listeChapitres>, <listeParagraphes> -->
+
+	<auteur>
+		<prénom>Alice</prénom>
+		<nom>Marvel</nom>
+	</auteur>
+	<auteur>
+		<prénom>Bob</prénom>
+		<nom>Sea</nom>
+	</auteur>
+
+	<titre>Alice et Bob cherchent Camille</titre>
+
+	<section>
+		<titre>Préambule</titre>
+		<chapitre>
+			<titre>Intro</titre>
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre>Remerciements</titre>
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+	</section>
+
+	<section>
+		<titre>Choses sérieuses</titre>
+		<chapitre>
+			<titre>Chapitre de commencement</titre>
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre>Chapitre venant ensuite</titre>
+			<paragraphe>Blablabla1</paragraphe>
+			<paragraphe>Blablabla2</paragraphe>
+		</chapitre>
+	</section>
+</livre>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livres>
+	<livre>
+		<titre>Itinéraire d'un alcoolique devenu prof d'autom</titre>
+		<auteurs>
+			<auteur>
+				<nom>Belorgane</nom>
+				<prenom>Jean-Michel</prenom>
+			</auteur>
+			<auteur>
+				<nom>Dusse</nom>
+				<prenom>Jean-Claude</prenom>
+			</auteur>
+		</auteurs>
+		<section>
+			<titre>La bouffarde</titre>
+			<chapitre>
+				<titre>Picon</titre>
+				<paragraphe>gorgée 1</paragraphe>
+				<paragraphe>gorgée 2</paragraphe>
+			</chapitre>
+			<chapitre>
+				<titre>Grimbergen</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+		</section>
+		<section>
+			<titre>Section 2</titre>
+			<chapitre>
+				<titre>chapitre 1</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+			<chapitre>
+				<titre>chapitre 2</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+		</section>
+	</livre>
+	<livre>
+		<titre>Itinéraire d'un alcoolique devenu prof d'autom</titre>
+		<auteurs>
+			<auteur>
+				<nom>Belorgane</nom>
+				<prenom>Jean-Michel</prenom>
+			</auteur>
+			<auteur>
+				<nom>Dusse</nom>
+				<prenom>Jean-Claude</prenom>
+			</auteur>
+		</auteurs>
+		<section>
+			<titre>La bouffarde</titre>
+			<chapitre>
+				<titre>Picon</titre>
+				<paragraphe>gorgée 1</paragraphe>
+				<paragraphe>gorgée 2</paragraphe>
+			</chapitre>
+			<chapitre>
+				<titre>chapitre 2</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+		</section>
+		<section>
+			<titre>Section 2</titre>
+			<chapitre>
+				<titre>chapitre 1</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+			<chapitre>
+				<titre>chapitre 2</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+		</section>
+	</livre>
+</livres>

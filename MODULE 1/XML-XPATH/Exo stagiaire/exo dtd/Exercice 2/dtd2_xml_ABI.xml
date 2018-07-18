@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE exercice [
+<!ELEMENT carnet (personne+)>
+<!ELEMENT personne EMPTY>
+<!ATTLIST personne
+	nom CDATA #REQUIRED
+	prenom CDATA #IMPLIED
+	telephone CDATA #REQUIRED>
+]>
+
+<exercice>
+	<carnet>
+		<personne nom="Paradoxe" telephone="0123456789"></personne>
+		<personne nom="Couleur" prenom="Azur" telephone="0987654321"></personne>
+	</carnet>
+</exercice>

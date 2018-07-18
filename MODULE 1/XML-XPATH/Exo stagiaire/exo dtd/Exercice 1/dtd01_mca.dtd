@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT cybershoppe (jouets,livre)>
+<!ELEMENT jouets (nom,description,prix,quantite+)>
+<!ELEMENT livre (nom,description,prix,quantite+)
+<!ATTLIST jouets id ID #REQUIRED>
+<!ATTLIST livre id ID #REQUIRED>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT quantite (#PCDATA)>
+

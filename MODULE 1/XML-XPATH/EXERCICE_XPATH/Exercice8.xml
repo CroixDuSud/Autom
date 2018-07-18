@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Trouvez la valeur de mathcolor pour l'élément dont colorvalue est égal à 10. -->
+<colors>
+    <color>
+        <mathcolor>#007dc5</mathcolor>
+        <textcolor>C=100 M=40 Y=0 K=0</textcolor>
+        <colorvalue>4</colorvalue>
+    </color>
+    <color>
+        <mathcolor>#ed1b34</mathcolor>
+        <textcolor>C=0 M=100 Y=85 K=0</textcolor>
+        <colorvalue>10</colorvalue>
+    </color>
+</colors>

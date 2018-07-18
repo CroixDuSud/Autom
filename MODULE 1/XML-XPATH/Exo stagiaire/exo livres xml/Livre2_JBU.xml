@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<book titrebouquin="AUTOBIOGRAPHIE DE MES ...">
+	<Listeauteurs>
+		<auteur nom="Brognard" prenom="Denis"/>
+		<auteur nom="Dicky" prenom="Boby"/>
+	</Listeauteurs>
+			<section nom="Section UNE">
+				<chapitre nom="Chapter one">
+						<p>Ceci est un paragraphe</p>
+						<p>Ceci est un autre paragraphe</p>
+				</chapitre>
+					<chapitre nom="Chapter two">
+							<p>Encore un paragraphe</p>
+							<p>Another one</p>
+					</chapitre>
+			</section>
+				<section nom="Section DEUX">
+					<chapitre nom="Chapter Three">
+							<p>Blablabla</p>
+							<p>du texte du texte du texte</p>
+					</chapitre>
+						<chapitre nom="Chapter Four">
+								<p>Tadaaaaam</p>
+								<p>Fin du chapitre 4 et fin du livre</p>
+						</chapitre>
+					</section>
+
+</book>

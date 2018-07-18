@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+	<titre>Chop Suey</titre>
+	<auteurs>
+		<nom>Malakian</nom>
+		<prénom>Daron</prénom>
+		<nom>Tankian</nom>
+		<prénom>Serj</prénom>
+	</auteurs>
+	<section>
+		<titre_section>Couplet 1</titre_section>
+		<chapitre>
+			<titre_chapitre>Premières lignes</titre_chapitre>
+			<paragraphe>Wake up! Grab a brush and put a little makeup!
+			</paragraphe>
+			<paragraphe>Hide the scars to fade away the shakeup !</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre_chapitre>Dernières lignes</titre_chapitre>
+			<paragraphe>Why'd you leave the keys upon the table?</paragraphe>
+			<paragraphe>Here you go create another fable !</paragraphe>
+		</chapitre>
+	</section>
+	<section>
+		<titre_section>Refrain</titre_section>
+		<chapitre>
+			<titre_chapitre>Premières lignes</titre_chapitre>
+			<paragraphe>I don't think you trust in my...</paragraphe>
+			<paragraphe>Self-righteous suicide...</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre_chapitre>Dernières lignes</titre_chapitre>
+			<paragraphe>I cry when angels deserve to...</paragraphe>
+			<paragraphe>DIIIIIIIIIEE !</paragraphe>
+		</chapitre>
+	</section>
+</livre>

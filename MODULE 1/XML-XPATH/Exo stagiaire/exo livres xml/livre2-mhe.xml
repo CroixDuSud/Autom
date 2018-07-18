@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- -->
+<book title="A book">
+	<authors>
+		<author name="Jean" firstname="Luc" />
+		<author name="Rene" firstname="Paul" />
+	</authors>
+	<section title="Section 1">
+		<chapter title="Titre 1">
+			<paragraph>texte</paragraph>
+			<paragraph>texte</paragraph>
+		</chapter>
+		<chapter title="Titre 2">
+			<paragraph>texte</paragraph>
+			<paragraph>texte</paragraph>
+		</chapter>
+	</section>
+	<section title="Section 2">
+		<chapter title="Titre 3">
+			<paragraph>texte</paragraph>
+			<paragraph>texte</paragraph>
+		</chapter>
+		<chapter title="Titre 4">
+			<paragraph>texte</paragraph>
+			<paragraph>texte</paragraph>
+		</chapter>
+	</section>
+</book>

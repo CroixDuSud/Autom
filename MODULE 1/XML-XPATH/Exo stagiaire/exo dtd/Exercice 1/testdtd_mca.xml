@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cybershop SYSTEM "dtd01_mca.dtd">
+<cybershop>
+	<jouets id= "D121">
+		<nom>lol</nom>
+		<description>league of legends></description>
+		<prix>12</prix>
+		<quantite>14</quantite>
+	</jouets>
+	<livre id="C401">
+		<nom>lol</nom>
+		<description>league of legends></description>
+		<prix>12</prix>
+		<quantite>14</quantite>
+	</livre>
+</cybershop>

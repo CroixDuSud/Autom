@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<soc:livre titre_livre="Deuxième exercice de xml" xmlns:ent="http://www.monentreprise.com" xmlns:soc="http://www.masociete.com">
+	<soc:auteur nom="Lafonte" prenom="Dédé"/>
+	<soc:auteur nom="Lapresse" prenom="Gégé"/>
+	<soc:section titre="Section 1">
+		<soc:chapitre titre_chapitre="Chapitre 1">
+			<soc:paragraphe>Paragraphe 1</soc:paragraphe>
+			<soc:paragraphe>Paragraphe 2</soc:paragraphe>
+		</soc:chapitre>
+		<soc:chapitre titre_chapitre="Chapitre 2">
+			<soc:paragraphe>Paragraphe 3</soc:paragraphe>
+			<soc:paragraphe>Paragraphe 4</soc:paragraphe>
+		</soc:chapitre>
+	</soc:section>
+	<ent:section titre="Section 2">
+		<ent:chapitre titre_chapitre="Chapitre 3">
+			<ent:paragraphe>Paragraphe 5</ent:paragraphe>
+			<ent:paragraphe>Paragraphe 6</ent:paragraphe>
+		</ent:chapitre>
+		<ent:chapitre titre_chapitre="Chapitre 4">
+			<ent:paragraphe>Paragraphe 7</ent:paragraphe>
+			<paragraphe>Paragraphe 8</paragraphe>
+		</ent:chapitre>
+	</ent:section>
+</soc:livre>

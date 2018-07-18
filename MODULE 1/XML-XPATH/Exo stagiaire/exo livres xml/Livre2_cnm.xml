@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre titre="Quoi de neuf, docteur ?">
+	<ListeAuteurs>
+		<auteur prenom="Roger" nom="Rabbit" />
+		<auteur prenom="Bugs" nom="Bunny" />
+	</ListeAuteurs>
+
+	<section titre="si post exsudatos labores">
+		<chapitre titre="consilio ad placidiora deverti">
+			<paragraphe>Nemo quaeso miretur, si post exsudatos </paragraphe>
+			<paragraphe>Nemo quaeso miretur, si post exsudatos </paragraphe>
+		</chapitre>
+		<chapitre titre="barbaricos pagos adventans velut">
+			<paragraphe>dfatim commeatus fiducia</paragraphe>
+			<paragraphe>dfatim commeatus fiducia</paragraphe>
+		</chapitre>
+	</section>
+
+	<section titre="Orientis vero limes in longum ">
+		<chapitre titre="42">
+			<paragraphe>dextra pelagi fragoribus</paragraphe>
+			<paragraphe>dextra pelagi fragoribus</paragraphe>
+		</chapitre>
+		<chapitre titre="barbaricos pagos adventans velut">
+			<paragraphe>obitum successorio iure teneret regna Persidis,
+				efficaciae inpetrabilis rex, ut indicat cognomentum.</paragraphe>
+			<paragraphe>obitum successorio iure teneret regna Persidis,
+				efficaciae inpetrabilis rex, ut indicat cognomentum.</paragraphe>
+		</chapitre>
+	</section>
+
+</livre>

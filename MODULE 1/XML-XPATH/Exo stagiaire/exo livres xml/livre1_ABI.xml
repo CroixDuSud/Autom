@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+	<titre>Un exercice en xml</titre>
+	<auteur>
+		<nom>Lafonte</nom>
+		<prenom>Dédé</prenom>
+	</auteur>
+	<auteur>
+		<nom>Lapresse</nom>
+		<prenom>Gégé</prenom>
+	</auteur>
+	<section>
+		<titre>Section 1</titre>
+		<chapitre>
+			<titre>Chapitre 1</titre>
+			<paragraphe>Paragraphe 1</paragraphe>
+			<paragraphe>Paragraphe 2</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre>Chapitre 2</titre>
+			<paragraphe>Paragraphe 3</paragraphe>
+			<paragraphe>Paragraphe 4</paragraphe>
+		</chapitre>
+	</section>
+	<section>
+		<titre>Section 2</titre>
+		<chapitre>
+			<titre>Chapitre 3</titre>
+			<paragraphe>Paragraphe 5</paragraphe>
+			<paragraphe>Paragraphe 6</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre>Chapitre 4</titre>
+			<paragraphe>Paragraphe 7</paragraphe>
+			<paragraphe>Paragraphe 8</paragraphe>
+		</chapitre>
+	</section>
+</livre>

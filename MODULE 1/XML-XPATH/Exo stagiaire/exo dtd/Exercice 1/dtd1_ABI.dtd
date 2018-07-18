@@ -1,0 +1,8 @@
+<!ELEMENT CyberShoppe produit*>
+<!ELEMENT produit (description, prix, quantite)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT quantite (#PCDATA)>
+<!ATTLIST produit
+	type (jouet | livres) #REQUIRED
+	id ID #REQUIRED>

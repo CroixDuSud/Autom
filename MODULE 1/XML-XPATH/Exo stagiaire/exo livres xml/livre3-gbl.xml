@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livres>
+	<p:livre xmlns:p="http://masociete.com">
+		<p:titre>Itinéraire d'un alcoolique devenu prof d'autom</p:titre>
+		<p:auteurs>
+			<p:auteur>
+				<p:nom>Belorgane</p:nom>
+				<p:prenom>Jean-Michel</p:prenom>
+			</p:auteur>
+			<p:auteur>
+				<p:nom>Dusse</p:nom>
+				<p:prenom>Jean-Claude</p:prenom>
+			</p:auteur>
+		</p:auteurs>
+		<p:section>
+			<p:titre>La bouffarde</p:titre>
+			<p:chapitre>
+				<p:titre>Picon</p:titre>
+				<p:paragraphe>gorgée 1</p:paragraphe>
+				<p:paragraphe>gorgée 2</p:paragraphe>
+			</p:chapitre>
+			<p:chapitre>
+				<p:titre>Grimbergen</p:titre>
+				<p:paragraphe>Paragraphe 1</p:paragraphe>
+				<p:paragraphe>Paragraphe 2</p:paragraphe>
+			</p:chapitre>
+		</p:section>
+		<section xmlns="http://monentreprise.com">
+			<titre>Section 2</titre>
+			<chapitre>
+				<titre>chapitre 1</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe>Paragraphe 2</paragraphe>
+			</chapitre>
+			<chapitre>
+				<titre>chapitre 2</titre>
+				<paragraphe>Paragraphe 1</paragraphe>
+				<paragraphe xmlns="">Paragraphe 2</paragraphe>
+			</chapitre>
+		</section>
+	</p:livre>
+</livres>

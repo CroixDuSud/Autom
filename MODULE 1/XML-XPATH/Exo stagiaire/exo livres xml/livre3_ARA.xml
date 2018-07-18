@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<pref1:livre xmlns:pref1="http://www.masociete.com"
+	xmlns:pref2="http://www.monentreprise.com">
+	<!-- Avec éventuellement les différents éléments respectifs dans des listes 
+		: <listeAuteurs>, <listeSections>, <listeChapitres>, <listeParagraphes> -->
+
+	<pref1:auteur>
+		<pref1:prénom>Alice</pref1:prénom>
+		<pref1:nom>Marvel</pref1:nom>
+	</pref1:auteur>
+	<pref1:auteur>
+		<pref1:prénom>Bob</pref1:prénom>
+		<pref1:nom>Sea</pref1:nom>
+	</pref1:auteur>
+
+	<pref1:titre>Alice et Bob cherchent Camille</pref1:titre>
+
+	<pref1:section>
+		<pref1:titre>Préambule</pref1:titre>
+		<pref1:chapitre>
+			<pref1:titre>Intro</pref1:titre>
+			<pref1:paragraphe>Blablabla1</pref1:paragraphe>
+			<pref1:paragraphe>Blablabla2</pref1:paragraphe>
+		</pref1:chapitre>
+		<pref1:chapitre>
+			<pref1:titre>Remerciements</pref1:titre>
+			<pref1:paragraphe>Blablabla1</pref1:paragraphe>
+			<pref1:paragraphe>Blablabla2</pref1:paragraphe>
+		</pref1:chapitre>
+	</pref1:section>
+
+	<pref2:section>
+		<pref2:titre>Choses sérieuses</pref2:titre>
+		<pref2:chapitre>
+			<pref2:titre>Chapitre de commencement</pref2:titre>
+			<pref2:paragraphe>Blablabla1</pref2:paragraphe>
+			<pref2:paragraphe>Blablabla2</pref2:paragraphe>
+		</pref2:chapitre>
+		<pref2:chapitre>
+			<pref2:titre>Chapitre venant ensuite</pref2:titre>
+			<pref2:paragraphe>Blablabla1</pref2:paragraphe>
+			<paragraphe xmlns="">Blablabla2</paragraphe>
+			<!-- ou alors : ce dernier paragraphe sans préciser du tout de namespace, 
+				comme ça il retombe sur le namespace par défaut et comme il n'y en a pas 
+				(il n'y a que pref1 et pref2), il n'a pas de namespace. -->
+		</pref2:chapitre>
+	</pref2:section>
+</pref1:livre>

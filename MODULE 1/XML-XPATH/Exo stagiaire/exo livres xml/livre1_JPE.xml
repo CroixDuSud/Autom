@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+	<titre>Titre_Du_Livre</titre>
+	<auteurs>
+		<principal>
+			<prenom>Prénom1</prenom>
+			<nom>Nom1</nom>
+		</principal>
+		<secondaire>
+			<prenom>Prénom2</prenom>
+			<nom>Nom2</nom>
+		</secondaire>
+	</auteurs>
+
+	<section>
+		<titre>Titre_de_la_section 1</titre>
+		<chapitre>
+			<titre>Chapitre_1.1</titre>
+			<paragraphe>Paragraphe_1.1.1</paragraphe>
+			<paragraphe>Paragraphe_1.1.2</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre>Chapitre_1.2</titre>
+			<paragraphe>Paragraphe_1.2.1</paragraphe>
+			<paragraphe>Paragraphe_1.2.2</paragraphe>
+		</chapitre>
+	</section>
+	
+	<section>
+		<titre>Titre_de_la_section 2</titre>
+		<chapitre>
+			<titre>Chapitre_2.1</titre>
+			<paragraphe>Paragraphe_2.1.1</paragraphe>
+			<paragraphe>Paragraphe_2.1.2</paragraphe>
+		</chapitre>
+		<chapitre>
+			<titre>Chapitre_2.2</titre>
+			<paragraphe>Paragraphe_2.2.1</paragraphe>
+			<paragraphe>Paragraphe_2.2.2</paragraphe>
+		</chapitre>
+	</section>
+</livre>

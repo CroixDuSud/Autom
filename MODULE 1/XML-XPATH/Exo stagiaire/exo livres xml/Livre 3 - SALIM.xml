@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<p:livre xmlns:p="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+	<p:title> Titre Livre </p:title>
+	<p:liste-auteurs>
+		<p:auteur>
+			<p:nom> Nom auteur 1</p:nom>
+			<p:prenom> Prénom auteur 1</p:prenom>
+		</p:auteur>
+		<p:auteur>
+			<p:nom> Nom auteur 2</p:nom>
+			<p:prenom> Prénom auteur 2</p:prenom>
+		</p:auteur>
+	</p:liste-auteurs>
+	<p:section>
+		<p:title> Section 1</p:title>
+		<p:chapitre>
+			<p:title> Chapitre 1</p:title>
+			<p:paragraphe> Paragraphe 1</p:paragraphe>
+			<p:paragraphe> Paragraphe 2</p:paragraphe>
+		</p:chapitre>
+		<p:chapitre>
+			<p:title> Chapitre 2</p:title>
+			<p:paragraphe> Paragraphe 1</p:paragraphe>
+			<p:paragraphe> Paragraphe 2</p:paragraphe>
+		</p:chapitre>
+	</p:section>
+	<p2:section>
+		<p2:title> Section 2</p2:title>
+		<p2:chapitre>
+			<p2:title> Chapitre 1</p2:title>
+			<p2:paragraphe> Paragraphe 1</p2:paragraphe>
+			<p2:paragraphe> Paragraphe 2</p2:paragraphe>
+		</p2:chapitre>
+		<p2:chapitre>
+			<p2:title> Chapitre 2</p2:title>
+			<p2:paragraphe> Paragraphe 1</p2:paragraphe>
+			<paragraphe> Paragraphe 2</paragraphe>
+		</p2:chapitre>
+	</p2:section>
+</p:livre>

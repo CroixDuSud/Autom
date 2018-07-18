@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Trouvez les valeurs de la balise id si une de ces sous-balises meta contient 123456.  -->
+
+<catalogue>
+  <produits>
+    <produit id="pdt1" libelle="produit 1" cat="PDT">
+      <metas date="2015.07.24">
+        <meta code="123456" value="123456"/>
+        <meta code="789012" value="ghijkl"/>
+        <meta code="345678" value="mnopqr"/>
+      </metas>
+    </produit>
+    <produit id="pdt2" libelle="produit 2" cat="PDT">
+      <metas date="2015.07.24">
+        <meta code="123456" value="abcdef"/>
+        <meta code="789012" value="ghijkl"/>
+        <meta code="345678" value="mnopqr"/>
+      </metas>
+    </produit>
+    <produit id="pdt3" libelle="produit 3" cat="PDT">
+      <metas date="2015.07.24">
+        <meta code="123456" value="123456"/>
+        <meta code="789012" value="ghijkl"/>
+        <meta code="345678" value="mnopqr"/>
+      </metas>
+    </produit>
+  </produits>
+</catalogue>

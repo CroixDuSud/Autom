@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Je suis positionné sur le noeud node[@id='1']. J'ai besoin d'un Xpath pour récuperer tout les noeuds jusqu'au prochain noeud non-vide (ici node[@id='2']) -->
+ 
+<nodes>
+ <node></node>
+    <node></node>
+    <node id="1">content</node>
+    <node></node>
+    <node>ghh</node>
+    <node></node>
+    <node id="2">content</node>
+    <node></node>
+    <node></node>
+	</nodes>

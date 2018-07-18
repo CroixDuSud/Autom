@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT cyberSh (produit)*>
+
+<!ELEMENT produit (nom, descrip, prix, quanti)>
+
+<!ELEMENT nom (#PCDATA) >
+<!ELEMENT descrip (#PCDATA) >
+<!ELEMENT prix (#PCDATA) >
+<!ELEMENT quanti (#PCDATA) >
+
+<!ATTLIST produit 
+	cat (jouet | livre) #REQUIRED
+	id ID #REQUIRED >

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<book titre = "Ma vie, mon oeuvre">
+	<auteur nom="MICHEL" prenom="Patrick"/>
+	<auteur nom="HUGO" prenom="Victor"/>
+	<section titre = "Le début de la fin">
+		<chapter titre="Comment je suis devenu le roi du monde">
+			<paragraphe>
+				L'histoire de ma vie
+			</paragraphe>
+
+			<paragraphe>
+				Le reste de l'histoire de ma vie
+			</paragraphe>
+		</chapter>
+
+		<chapter titre="La survie pour les nuls">
+			<paragraphe>
+				Comment cuire un oeuf dans le désert ?
+			</paragraphe>
+
+			<paragraphe>
+				Survivre à Paris
+			</paragraphe>
+		</chapter>
+	</section>
+	
+	<section titre="C'est la fin ... normalement">
+		<chapter titre="La chute d'un Empire">
+			<paragraphe>
+				La chute de l'Empire Romain
+			</paragraphe>
+
+			<paragraphe>
+				La chute de l'Empire Austro-Hongrois
+			</paragraphe>
+		</chapter>
+		<chapter titre="La naissance des Etats Modernes">
+			<paragraphe>
+				Les Pays Bas Espagnols au XVIe siècle
+			</paragraphe>
+
+			<paragraphe>
+				Le Siam au XVIIIe siècle
+			</paragraphe>
+		</chapter>
+	</section>
+</book>

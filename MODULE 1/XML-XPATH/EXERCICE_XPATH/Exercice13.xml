@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Retournez les valeurs des pourcentage pour l'année 2016 -->
+
+<myxml>
+  <inputassumptions>
+    <data>
+      <general>
+        <generaltable>
+          <generalmethod>PGR</generalmethod>
+          <vdata>
+            <ventry>
+              <effectivedate relativeto="Absolute">2015-06-01</effectivedate>
+              <percentage>0.01</percentage>
+            </ventry>
+            <ventry>
+              <effectivedate relativeto="Absolute">2016-06-01</effectivedate>
+              <percentage>0.02</percentage>
+            </ventry>
+            <ventry>
+              <effectivedate relativeto="Absolute">2016-06-01</effectivedate>
+              <percentage>0.03</percentage>
+            </ventry>
+            <ventry>
+              <effectivedate relativeto="Absolute">2018-06-01</effectivedate>
+              <percentage>0.04</percentage>
+            </ventry>
+            <ventry>
+              <effectivedate relativeto="Absolute">2019-06-01</effectivedate>
+              <percentage>0.05</percentage>
+            </ventry>
+          </vdata>
+        </generaltable>
+      </general>
+    </data>
+  </inputassumptions>
+</myxml>

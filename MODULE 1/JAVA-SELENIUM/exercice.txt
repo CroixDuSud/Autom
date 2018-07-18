@@ -1,0 +1,9 @@
+Synchronisation
+
+Checkboxes
+	- clic
+	- vérifier statut 
+	
+Interactions complexes
+	- drag and drop (d'un lien vers un champ texte)
+	- mouse hover (menus)

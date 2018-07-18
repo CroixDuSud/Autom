@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- -->
+<p:book xmlns:p="http://www.masociete.com">
+	<p:title>Un livre</p:title>
+	<p:authors>
+		<p:name>nom</p:name>
+		<p:name>nom</p:name>
+	</p:authors>
+	<p:section>
+		<p:title>Section 1</p:title>
+		<p:chapter>
+			<p:title>Titre 1</p:title>
+			<p:paragraph>texte</p:paragraph>
+			<p:paragraph>texte</p:paragraph>
+		</p:chapter>
+		<p:chapter>
+			<p:title>Titre 2</p:title>
+			<p:paragraph>texte</p:paragraph>
+			<p:paragraph>texte</p:paragraph>
+		</p:chapter>
+	</p:section>
+	<section xmlns="http://www.monentreprise.com">
+		<title>Section 2</title>
+		<chapter>
+			<title>Titre 3</title>
+			<paragraph>texte</paragraph>
+			<paragraph>texte</paragraph>
+		</chapter>
+		<chapter>
+			<title>Titre 4</title>
+			<paragraph>texte</paragraph>
+			<paragraph xmlns="">texte</paragraph>
+		</chapter>
+	</section>
+</p:book>

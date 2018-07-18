@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<livre>
+	<title> Titre Livre </title>
+	<liste-auteurs> 
+		<auteur>
+			<nom> Nom auteur 1</nom>
+			<prenom> Prénom auteur 1</prenom>
+		</auteur>
+		<auteur>
+			<nom> Nom auteur 2</nom>
+			<prenom> Prénom auteur 2</prenom>
+		</auteur>
+	</liste-auteurs> 
+	<section>
+		<title> Section 1</title>
+		<chapitre>
+			<title> Chapitre 1</title>
+			<paragraphe> Paragraphe 1</paragraphe>
+			<paragraphe> Paragraphe 2</paragraphe>
+		</chapitre>
+		<chapitre>
+			<title> Chapitre 2</title>
+			<paragraphe> Paragraphe 1</paragraphe>
+			<paragraphe> Paragraphe 2</paragraphe>
+		</chapitre>
+	</section> 
+	<section>
+		<title> Section 2</title>
+		<chapitre>
+			<title> Chapitre 1</title>
+			<paragraphe> Paragraphe 1</paragraphe>
+			<paragraphe> Paragraphe 2</paragraphe>
+		</chapitre>
+		<chapitre>
+			<title> Chapitre 2</title>
+			<paragraphe> Paragraphe 1</paragraphe>
+			<paragraphe> Paragraphe 2</paragraphe>
+		</chapitre>
+	</section> 
+</livre>

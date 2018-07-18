@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT produits (produit)+>
+<!ELEMENT produit (livre, jouet)>
+<!ELEMENT livre (prix, quantite)>
+<!ELEMENT jouet (prix, quantite)>
+<!ATTLIST livre
+		id ID #REQUIRED
+		categorie (jouet | livre) #REQUIRED
+		nom CDATA #REQUIRED>
+<!ATTLIST jouet
+		id ID #REQUIRED
+		categorie (jouet | livre) #REQUIRED
+		nom CDATA #REQUIRED>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT quantite (#PCDATA)>
+		
+
+		

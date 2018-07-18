@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- coucou comment va -->
+<book>
+	<title title="lol" />
+	<auteur>
+		<personne nom="Teemo" prenom="adc" />
+		<personne nom="fiddle" prenom="supp" />
+	</auteur>
+	<section>
+		<title title="rip_adc" />
+		<para>text</para>
+		<chapter>
+			<title title="one_shoot" />
+			<para>text</para>
+			<para>text</para>
+		</chapter>
+		<chapter>
+			<title title="supp_love" />
+			<para>text</para>
+			<para>text</para>
+		</chapter>
+	</section>
+	<section>
+		<title title="gold" />
+		<para>text</para>
+		<chapter>
+			<title title="last_hit" />
+			<para>text</para>
+			<para>text</para>
+		</chapter>
+		<chapter>
+			<title title="last_shoot" />
+			<para>text</para>
+			<para>text</para>
+		</chapter>
+	</section>
+</book>

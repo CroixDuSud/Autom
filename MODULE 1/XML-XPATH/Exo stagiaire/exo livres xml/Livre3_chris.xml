@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<livre xmlns="http://www.masociete.com" xmlns:ns1="http://www.monentreprise.com" titre="bitch better get my money">
+	<AUTEURS>
+		<auteur nom="yo" prenom="mama" />
+		<auteur nom="is" prenom="fat" />
+	</AUTEURS>
+
+
+	<section titre="you're a loser at life">
+		<chapitre>
+			<titre>how did we get here?</titre>
+			<paragraphe>you were born</paragraphe>
+			<paragraphe>that's about it</paragraphe>
+		</chapitre>
+		<chapitre titre="how to fix it?">
+			<paragraphe>end it all</paragraphe>
+			<paragraphe>need help call 0-800-666-666</paragraphe>
+		</chapitre>
+	</section>
+
+	<ns1:section titre="pay back you owe me. bitch.">
+		<chapitre titre="don't stare at me">
+			<paragraphe>don't stare at your shoes!</paragraphe>
+			<paragraphe>"WHY MEE?!!??"</paragraphe>
+		</chapitre>
+		<chapitre titre="now look what you've done">
+			<paragraphe>Mama, I just killed a man</paragraphe>
+			<paragraphe xmlns="">Put a gun against his head
+				Pulled my trigger, now he's dead
+				Mama, life had just begun
+				But now I've gone and thrown it all away
+				Mama, ooo
+				Didn't mean to make you cry
+				If I'm not back again this time tomorrow
+				Carry on, carry on, as if nothing really matters
+			</paragraphe>
+		</chapitre>
+	</ns1:section>
+	
+</livre>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cyberSh SYSTEM "cybershoppe_ARA.dtd" >
+
+<cyberSh>
+	<produit cat="jouet" id="id0">
+		<nom>Playmobil</nom>
+		<descrip>En avant les histoires !</descrip>
+		<prix>7,99</prix>
+		<quanti>100</quanti>
+	</produit>
+
+	<produit cat="livre" id="id1">
+		<nom>Le petit prince</nom>
+		<descrip>Un classique incontournable</descrip>
+		<prix>9,99</prix>
+		<quanti>50</quanti>
+	</produit>
+
+</cyberSh>

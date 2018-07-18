@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT produit (#PCDATA)>
+<!ATTLIST produit
+	id ID #REQUIRED
+	categorie (jouet|livre) #REQUIRED	
+	nom CDATA #REQUIRED
+	description CDATA #IMPLIED
+	prix CDATA #REQUIRED
+	quantite CDATA #REQUIRED
+	>
+
+	

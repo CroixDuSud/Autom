@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- coucou comment va -->
+<p:book xmlns:p="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+	<p:title>
+		titre_livre
+	</p:title>
+	<p:auteur>
+		<p:prenom>prenom</p:prenom>
+		<p:Nom>nom</p:Nom>
+		<p:prenom>prenom</p:prenom>
+		<p:Nom>nom</p:Nom>
+	</p:auteur>
+	<p:section>
+		<p:title>title</p:title>
+		<p:para>text</p:para>
+		<p:chapter>
+			<p:title>title</p:title>
+			<p:para>text</p:para>
+			<p:para>text</p:para>
+		</p:chapter>
+		<p:chapter>
+			<p:title>title</p:title>
+			<p:para>text</p:para>
+			<p:para>text</p:para>
+		</p:chapter>
+	</p:section>
+	<section xmlns="http://www.monentreprise.com">
+		<title>title</title>
+		<para>text</para>
+		<chapter>
+			<para>text</para>
+			<para>text</para>
+		</chapter>
+		<chapter>
+			<para>text</para>
+			<para xmlns="">text</para>
+		</chapter>
+	</section>
+</p:book>

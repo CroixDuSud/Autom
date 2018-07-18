@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+<livre xmlns:p="http://www.masociete.com" p:titre="EXERCICE N°1 module 1">
+	
+	<liste_auteur>
+		<auteur nom="TOTO" prenom="Titi">
+		</auteur>
+		<auteur nom="PAPA" prenom="Pipi">
+		</auteur>
+	</liste_auteur>
+	
+	
+	<section xmlns:p="" titre="section de recherche">
+		
+		<chapitre nom_chapitre="Introduction">
+			
+		
+			<paragraphe titre_para ="para1">pourquoi pas</paragraphe>
+			<paragraphe titre_para ="para2">pourquoi pas un text</paragraphe>
+			
+		</chapitre>
+		
+		
+		<chapitre nom_chapitre="Chapitre 1 exercice 2">
+			<paragraphe titre_para ="para1"></paragraphe>
+			<paragraphe titre_para ="para2"></paragraphe>
+			
+		</chapitre>
+		
+		
+	</section>
+
+	<section p:titre="section test 2">
+		
+		<chapitre nom_chapitre="Introduction">
+			<paragraphe titre_para ="para1"></paragraphe>
+			<paragraphe titre_para ="para2"></paragraphe>
+			
+		</chapitre>
+		
+		<chapitre nom_chapitre="Chapitre 1 exercice avec des difficultés">
+		
+			<paragraphe titre_para ="para1"></paragraphe>
+			<paragraphe titre_para ="para2"></paragraphe>
+			
+		</chapitre>
+		
+		
+	</section>
+
+</livre>
+
+<!-- commentaire -->

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT shop (produits)>
+<!ELEMENT produits (produit*)>
+<!ELEMENT produit (nom, description?,prix,quantite)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT prix (#PCDATA)>
+<!ELEMENT quantite (#PCDATA)>
+<!ATTLIST produit
+			id ID #REQUIRED 
+			categorie (jouet | livre) "jouet">
