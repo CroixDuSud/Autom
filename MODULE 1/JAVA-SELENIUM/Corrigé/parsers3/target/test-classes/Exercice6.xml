@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Trouvez le nom de famille du patient né le 17 Dec 1955 -->
+
+<patients>
+  <patientrole>
+    <id extension="996-756-495" root="2.16.840.1.113883.19.5">
+    <id extension="775-756-495" root="2.16.840.1.113883.14.6">
+    <patient>
+      <name>
+        <given>Henry</given>
+        <family>Levin</family>
+      </name>
+      <administrativegendercode code="M" codesystem="2.16.840.1.113883.5.1">
+      <birthtime value="19320924">
+    </birthtime></administrativegendercode></patient>
+    <providerorganization>
+      <id root="2.16.840.1.113883.19.5">
+      <name>Good Health Clinic</name>
+    </id></providerorganization>
+    <admissiontime value="2012030111:32">
+  </admissiontime></id></id></patientrole>
+  <patientrole>
+    <id extension="65" root="2.16.840.1.113883.3.933">
+    <patient>
+      <name>
+        <given>Paul</given>
+        <family>Pappel</family>
+      </name>
+      <administrativegendercode code="M" codesystem="2.16.840.1.113883.5.1">
+      <birthtime value="19551217">
+    </birthtime></administrativegendercode></patient>
+    <providerorganization>
+      <id extension="84756-11241-283-OPTD-3322" root="1.2.3.4.5.6.1.8.9.0">
+      <name> Dr.med. Hans Topp-Glucklich</name>
+    </id></providerorganization>
+    <admissiontime value="201201152200">
+  </admissiontime></id></patientrole>
+  <patientrole>
+    <id extension="800001" root="2.16.840.1.113883.19.5">
+    <patient>
+      <name>
+        <given>JEANNE</given>
+        <family>PETIT</family>
+      </name>
+      <administrativegendercode code="F" codesystem="2.16.840.1.113883.5.1">
+      <birthtime value="19480105">
+    </birthtime></administrativegendercode></patient>
+    <providerorganization>
+      <id root="2.16.840.1.113883.19.5">
+      <name>Good Health Clinic</name>
+    </id></providerorganization>
+    <admissiontime value="20120101T22:00">
+  </admissiontime></id></patientrole>
+</patients>
