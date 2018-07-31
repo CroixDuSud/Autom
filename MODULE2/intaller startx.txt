@@ -1,0 +1,2 @@
+Ubuntu Startx :
+https://formation-debian.viarezo.fr/xorg.html
