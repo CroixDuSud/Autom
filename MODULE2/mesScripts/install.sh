@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Script d'installation de Jenkins
-
+sourceFolder="/home/~"
 tomcatArchive="apache-tomcat-7.0.75.tar.gz"
 tomcatFolder="apache-tomcat-7.0.75"
 tomcatTargetPath="/opt/tomcat"
@@ -15,7 +15,7 @@ error_handler(){
 }
 
 cleanLogs(){
-	cd /home && rm -f install_log.txt
+	cd $sourceFolder && rm -f install_log.txt
 }
 
 install_JRE(){
@@ -28,10 +28,9 @@ install_JRE(){
 
 install_tomcat(){
 	echo "verification de l'installation de tomcat..."
-	if [[ -e $tomcatTargetPath ]]; then
-		echo "tomcat détecté"
+	if [[ -e $tomcatTargetPath ]]; then echo "tomcat détecté"
 	else echo "installation de tomcat..."
-		cd /home || error_handler "Le dossier home n'existe pas !"
+		cd $sourceFolder || error_handler "Le dossier des fichiers sources n'existe pas !"
 		tar -zxvf $tomcatArchive || error_handler "Impossible de décompresser le fichier !"
 		mv $tomcatFolder $tomcatTargetPath || error_handler "Impossible de déplacer le ficher !"
 	fi
@@ -40,10 +39,9 @@ install_tomcat(){
 
 install_jenkins(){
 	echo "verification de l'installation de jenkins..."
-	if [[ -e $jenkinsTargetPath ]]; then
-		echo "jenkins détecté"
+	if [[ -e $jenkinsTargetPath ]]; then echo "jenkins détecté"
 	else echo "installation de jenkins..."
-		cd /home || error_handler "Le dossier home n'existe pas !"
+		cd $sourceFolder || error_handler "Le dossier des fichiers sources n'existe pas !"
 		mv $jenkinsFile $jenkinsTargetPath || error_handler "Impossible de déplacer le ficher !"
 	fi
 	return 3
