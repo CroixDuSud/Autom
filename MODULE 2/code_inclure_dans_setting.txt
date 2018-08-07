@@ -1,0 +1,19 @@
+// Aller dans le fichier "setting.xml" dans le dossier Maven / CONF / setting.xml 
+
+// Remplacer la partie Profil par défaut par le bout de code ci-dessous :  
+
+ <profile>
+      <id>default</id>
+	   <activation>
+            <activeByDefault>true</activeByDefault>
+        </activation>
+      <repositories>
+        <repository>
+          <id>jdk14</id>
+          <name>Repository for JDK 1.4 builds</name>
+          <url>http://repo.squashtest.org/maven2/releases</url>
+          <layout>default</layout>
+          <snapshotPolicy>always</snapshotPolicy>
+        </repository>
+      </repositories>
+    </profile>
